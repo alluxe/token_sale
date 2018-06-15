@@ -1,0 +1,16 @@
+{
+  "name": "alluxe-sale",
+  "version": "1.0.0",
+  "author": "Makeev Mikhail <makweb@yandex.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^4.1.11"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-es2017": "^6.22.0",
+    "babel-register": "^6.26.0"
+  }
+}
